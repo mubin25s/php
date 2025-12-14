@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<!--
+    PROBLEM:
+    Create a simple login system.
+    1. Display a form with "username" and "password" fields.
+    2. When the form is submitted, check if the username is "admin" and the password is "1234".
+    3. If they match, display "Login Successful".
+    4. Otherwise, display "Invalid Username or Password".
+-->
+<!DOCTYPE html>
 <html>
 <head>
     <title>Login</title>

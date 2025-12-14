@@ -1,4 +1,15 @@
 <!DOCTYPE html>
+<!--
+    PROBLEM:
+    Create an Employee Salary calculation system using OOP.
+    1. Create an 'Employee' class with properties: name, age, currentSalary (default 23000).
+    2. Creating specific rules for salary deduction in the constructor:
+       - If the name starts with 'A', deduct the age from the salary.
+       - If the name ends with 'h', deduct 2 * age from the salary.
+    3. Create a method 'printSalary' to display the result.
+    4. Create an array of Employee objects and loop through them to print each salary.
+-->
+<!DOCTYPE html>
 <html>
 <head>
 

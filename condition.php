@@ -1,4 +1,13 @@
 <!DOCTYPE html>
+<!--
+    PROBLEM:
+    Write a PHP script to check a number's value against 10.
+    1. Define a variable $number (e.g., 10).
+    2. If $number is greater than 10, print "Greater than 10".
+    3. If $number is equal to 10, print "Equal to 10".
+    4. If $number is less than 10, print "Less than 10".
+-->
+<!DOCTYPE html>
 <html>
 <head>
     <title>PHP Else If Example</title>
