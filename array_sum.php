@@ -21,6 +21,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     
     // Split the comma-separated string into an array
     // array_map('trim', ...) removes whitespace around numbers
+    //
     $number_array = array_map('trim', explode(',', $input_numbers));
     
     $current_sum = 0;
